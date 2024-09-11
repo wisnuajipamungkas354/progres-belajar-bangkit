@@ -1,6 +1,6 @@
 # Progres Belajar Bangkit
 --
-# Pengalaman Belajar Dasar Git & Github
+Pengalaman Belajar Dasar Git & Github
 
 9 September 2024
 Belajar kelas Dasar Git & Github. (Progres 38%)
